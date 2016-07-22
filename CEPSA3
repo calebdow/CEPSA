@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="C:\xampp\htdocs\stylesheet" rel="stylesheet" type="text/css" />
+    <link href="stylesheet" rel="stylesheet" type="text/css" />
     <h1> CEPSA Coding Page </h1>
     <title>Read File (via User Input selection)</title>
         <ul id=list>
