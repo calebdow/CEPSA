@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+#list {
+	position: fixed;
+	list-style-type: none;
+	margin-top: -5px;
+    left: 42px;
+    width: 100%;
+    padding: 7px;
+ }
+
+
+#listone {
+	position: fixed;
+	list-style-type: none;
+	margin-top: 25px;
+    left: 0;
+    width: 100%;
+
+ }
+
+li {
+    background-color: #dddddd;
+    display: inline
+
+   
+}
+h1 {margin-top:40px ;}
+
+div {margin-top: 75px;}
